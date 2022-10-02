@@ -2,6 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning about cyber security 
 - 💞️ I’m looking to collaborate on a team
+I have learned java, c programming 
 
 
 <!---
